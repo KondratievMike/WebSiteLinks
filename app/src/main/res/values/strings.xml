@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebSiteLinks</string>
+    <string name="open_website">OPEN WEBSITE</string>
+    <string name="open_location">OPEN LOCATION</string>
+    <string name="share_this_text">SHARE THIS TEXT</string>
+    <string name="some_text">some text</string>
+    <string name="place">place</string>
+    <string name="website">website</string>
+    <string name="http">http://</string>
+</resources>
